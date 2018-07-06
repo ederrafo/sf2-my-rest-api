@@ -1,0 +1,7 @@
+typo_script_backend:
+    resource: "@TypoScriptBackendBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

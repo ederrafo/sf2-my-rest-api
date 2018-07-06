@@ -1,0 +1,3 @@
+typo_script_backend_homepage:
+    path:     /
+    defaults: { _controller: TypoScriptBackendBundle:Default:index }
